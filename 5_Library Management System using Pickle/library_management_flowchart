@@ -1,0 +1,28 @@
+digraph {
+	Start [label=Start]
+	Auth [label="Librarian Authentication"]
+	Start -> Auth
+	Reg [label="Student Registration"]
+	Auth -> Reg
+	BM [label="Book Management (Add/Remove Books)"]
+	Reg -> BM
+	Issue [label="Issue Books"]
+	BM -> Issue
+	Return [label="Return Books"]
+	BM -> Return
+	Avail [label="Check if Book is Available"]
+	Issue -> Avail
+	NotIssued [label="Check if Book is Not Already Issued"]
+	Avail -> NotIssued
+	Issued [label="Check if Book is Issued to Student"]
+	Return -> Issued
+	IssueMore [label="Issue More Books?"]
+	NotIssued -> IssueMore
+	ReturnMore [label="Return More Books?"]
+	Issued -> ReturnMore
+	Exit [label=Exit]
+	IssueMore -> BM [label=Yes]
+	ReturnMore -> BM [label=Yes]
+	IssueMore -> Exit [label=No]
+	ReturnMore -> Exit [label=No]
+}

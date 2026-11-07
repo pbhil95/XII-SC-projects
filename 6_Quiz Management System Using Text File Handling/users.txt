@@ -1,0 +1,4 @@
+admin,admin123,Pankaj Bhilingwal,00,PGT,COM-SC,10/07/1995,admin
+XISC014,qwer,Pankaj,14,XI,SC,10/07/2006,user
+XIISC002,qwer,Rohan Singh,2,XII,SC,10/01/2008,user
+XIISC012,qwer,Harshit Gaud,12,XII,SC,12/11/2006,user

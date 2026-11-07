@@ -1,0 +1,7 @@
+What is the capital of France?|Paris|London|Berlin|Madrid|A|Geography
+Which planet is known as the Red Planet?|Venus|Mars|Jupiter|Saturn|B|Science
+What is 5 + 3?|6|7|8|9|C|Math
+Who wrote 'Romeo and Juliet'?|Charles Dickens|J.K. Rowling|William Shakespeare|Leo Tolstoy|C|Literature
+Processing unit of computer is :|Mouse|Keyboard|Monitor|CPU|D|Computer
+Example of Input Device is :|Monitor|Touch Screen|Printer|Speaker|B|Computer Basic
+Capital of India|Paris|London|New Delhi|None of These|C|GK
