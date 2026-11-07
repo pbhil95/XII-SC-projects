@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 8
+Name    : Neha Adhikari
+----------------------------
+English         95
+Physics         89
+Chemistry       93
+Maths           97
+CS              99
+----------------------------
+Total      : 473 / 500
+Percentage : 94.6 %
+Grade      : A1
+Result     : PASS

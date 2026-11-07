@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 9
+Name    : Priya Kandpal
+----------------------------
+English         84
+Physics         90
+Chemistry       77
+Maths           69
+CS              88
+----------------------------
+Total      : 408 / 500
+Percentage : 81.6 %
+Grade      : A2
+Result     : PASS

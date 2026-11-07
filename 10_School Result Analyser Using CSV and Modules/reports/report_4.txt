@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 4
+Name    : Diya Joshi
+----------------------------
+English         79
+Physics         91
+Chemistry       84
+Maths           95
+CS              90
+----------------------------
+Total      : 439 / 500
+Percentage : 87.8 %
+Grade      : A2
+Result     : PASS

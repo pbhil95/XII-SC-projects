@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 2
+Name    : Bhawna Bisht
+----------------------------
+English         92
+Physics         85
+Chemistry       89
+Maths           78
+CS              98
+----------------------------
+Total      : 442 / 500
+Percentage : 88.4 %
+Grade      : A2
+Result     : PASS

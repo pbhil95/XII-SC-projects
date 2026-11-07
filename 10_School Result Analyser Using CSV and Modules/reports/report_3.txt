@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 3
+Name    : Chetan Rawat
+----------------------------
+English         65
+Physics         58
+Chemistry       61
+Maths           49
+CS              72
+----------------------------
+Total      : 305 / 500
+Percentage : 61.0 %
+Grade      : B2
+Result     : PASS

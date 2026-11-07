@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 6
+Name    : Kavya Pandey
+----------------------------
+English         71
+Physics         66
+Chemistry       70
+Maths           63
+CS              81
+----------------------------
+Total      : 351 / 500
+Percentage : 70.2 %
+Grade      : B2
+Result     : PASS

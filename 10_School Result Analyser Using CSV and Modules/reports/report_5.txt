@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 5
+Name    : Gaurav Mehra
+----------------------------
+English         45
+Physics         30
+Chemistry       52
+Maths           38
+CS              60
+----------------------------
+Total      : 225 / 500
+Percentage : 45.0 %
+Grade      : C2
+Result     : FAIL

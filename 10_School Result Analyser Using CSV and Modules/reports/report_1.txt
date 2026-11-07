@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 1
+Name    : Aarav Negi
+----------------------------
+English         88
+Physics         76
+Chemistry       81
+Maths           92
+CS              95
+----------------------------
+Total      : 432 / 500
+Percentage : 86.4 %
+Grade      : A2
+Result     : PASS

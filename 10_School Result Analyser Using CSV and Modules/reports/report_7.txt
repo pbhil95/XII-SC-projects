@@ -1,0 +1,14 @@
+REPORT CARD - CLASS XII
+Roll No : 7
+Name    : Mohit Bora
+----------------------------
+English         56
+Physics         48
+Chemistry       44
+Maths           51
+CS              67
+----------------------------
+Total      : 266 / 500
+Percentage : 53.2 %
+Grade      : C1
+Result     : PASS
